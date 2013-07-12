@@ -20,9 +20,9 @@
              
                 <!-- Sub Menu Entries -->
                 <SubEntries>
-                    <Item subMenuId="edit-copyToClipboard"  name="Copy to Clipboard"/>
-                    <Item subMenuId="edit-indent" name="Indent"/>
-                    <Item subMenuId="edit-convertCaseTo" name="Convert Case to"/>
+                    <Item subMenuId="edit-copyToClipboard"  name="Cóipeáil" />
+                    <Item subMenuId="edit-indent" name="Eangaigh"/>
+                    <Item subMenuId="edit-convertCaseTo" name="Athraigh an Cás go dtí"/>
                     <Item subMenuId="edit-lineOperations" name="Line Operations"/>
                     <Item subMenuId="edit-comment" name="Comment/Uncomment"/>
                     <Item subMenuId="edit-autoCompletion" name="Auto-Completion"/>
@@ -62,23 +62,23 @@
                 
                 <!-- all menu item -->
                 <Commands>
-                    <Item id="41001" name="&amp;New"/>
-                    <Item id="41002" name="&amp;Open"/>
-                    <Item id="41003" name="Close"/>
-                    <Item id="41004" name="C&amp;lose All"/>
-                    <Item id="41005" name="Close All BUT Current Document"/>
-                    <Item id="41006" name="&amp;Save"/>
-                    <Item id="41007" name="Sav&amp;e All"/>
-                    <Item id="41008" name="Save &amp;As..."/>
-                    <Item id="41010" name="Print..."/>
-                    <Item id="1001"  name="Print Now"/>
+                    <Item id="41001" name="&amp;Nua"/>
+                    <Item id="41002" name="&amp;Oscail"/>                    
+					<Item id="41003" name="Dún"/>
+                    <Item id="41004" name="Dún ar Fad" />					
+                    <Item id="41005" name="Dún AR FAD ach an Doiciméad seo"/>
+                    <Item id="41006" name="&amp;Sábháil"/>
+                    <Item id="41007" name="Sábháil ar Fad"/>
+                    <Item id="41008" name="Sábháil &amp;Mar..."/>
+                    <Item id="41010" name="Priontáil..."/>
+                    <Item id="1001"  name="Priontáil Anois" />
                     <Item id="41011" name="E&amp;xit"/>
                     <Item id="41012" name="Load Session..."/>
                     <Item id="41013" name="Save Session..."/>
                     <Item id="41014" name="Reload from Disk"/>
                     <Item id="41015" name="Save a Copy As..."/>
                     <Item id="41016" name="Delete from Disk"/>
-                    <Item id="41017" name="Rename..."/>
+                    <Item id="41017" name="Athainmnigh..."/>
                     
                     <Item id="42001" name="Cu&amp;t"/>
                     <Item id="42002" name="&amp;Copy"/>
