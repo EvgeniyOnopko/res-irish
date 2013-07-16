@@ -264,7 +264,7 @@
             <TabBar>
                     <Item CMID="0" name="Close"/>
                     <Item CMID="1" name="Close All BUT This"/>
-                    <Item CMID="2" name="Save"/>
+                    <Item CMID="2" name="Sábháil"/>
                     <Item CMID="3" name="Save As..."/>
                     <Item CMID="4" name="Print"/>
                     <Item CMID="5" name="Move to Other View"/>
@@ -272,7 +272,7 @@
                     <Item CMID="7" name="Full File Path to Clipboard"/>
                     <Item CMID="8" name="Filename to Clipboard"/>
                     <Item CMID="9" name="Current Dir. Path to Clipboard"/>
-                    <Item CMID="10" name="Rename"/>
+                    <Item CMID="10" name="Athainmnigh"/>
                     <Item CMID="11" name="Move to Recycle Bin"/>
                     <Item CMID="12" name="Read-Only"/>
                     <Item CMID="13" name="Clear Read-Only Flag"/>
@@ -336,14 +336,14 @@
 
             <Run title="Run...">
                 <Item id="1903" name="The Program to Run"/>
-                <Item id="1"    name="Run"/>
+                <Item id="1"    name="Rith"/>
                 <Item id="2"    name="Cancel"/>
-                <Item id="1904" name="Save..."/>
+                <Item id="1904" name="Sábháil..."/>
             </Run>
             
             <StyleConfig title="Style Configurator">
                 <Item id="2"    name="Cancel"/>
-                <Item id="2301" name="Save &amp;&amp; Close"/>
+                <Item id="2301" name="Sámháil &amp;&amp; Close"/>
                 <Item id="2303" name="Transparency"/>       
                 <Item id="2306" name="Select theme: "/>
                 <SubDialog>
@@ -375,10 +375,10 @@
             
             <UserDefine title="User-Defined">
 				<Item id="20001" name="Dock"/>
-                <Item id="20002" name="Rename"/>
+                <Item id="20002" name="Athainmnigh"/>
                 <Item id="20003" name="Create New..."/>
                 <Item id="20004" name="Remove"/>
-                <Item id="20005" name="Save As..."/>
+                <Item id="20005" name="Sábháil Mar..."/>
                 <Item id="20007" name="User language: "/>
                 <Item id="20009" name="Ext.:"/>
                 <Item id="20012" name="Ignore case"/>
@@ -472,13 +472,13 @@
                     <Item id="23006" name="Allow preceeding whitespace"/>
                     <Item id="23001" name="Allow folding of comments"/>
                     <Item id="23326" name="Styler"/>
-                    <Item id="23323" name="Open"/>
+                    <Item id="23323" name="Oscail"/>
                     <Item id="23324" name="Continue character"/>
-                    <Item id="23325" name="Close"/>
+                    <Item id="23325" name="Dún"/>
                     <Item id="23301" name="Comment line style"/>
                     <Item id="23124" name="Styler"/>
-                    <Item id="23122" name="Open"/>
-                    <Item id="23123" name="Close"/>
+                    <Item id="23122" name="Oscail"/>
+                    <Item id="23123" name="Dún"/>
                     <Item id="23101" name="Comment style"/>
                     <Item id="23201" name="Number style"/>
                     <Item id="23220" name="Styler"/>
@@ -502,48 +502,48 @@
                     <Item id="24201" name="Delimiter 1 style"/>
 					<Item id="24220" name="Open:"/>
                     <Item id="24221" name="Escape:"/>
-                    <Item id="24222" name="Close:"/>
+                    <Item id="24222" name="Dún:"/>
                     <Item id="24223" name="Styler"/>
                     <Item id="24301" name="Delimiter 2 style"/>
-					<Item id="24320" name="Open:"/>
+					<Item id="24320" name="Oscail:"/>
                     <Item id="24321" name="Escape:"/>
-                    <Item id="24322" name="Close:"/>
+                    <Item id="24322" name="Dún:"/>
                     <Item id="24323" name="Styler"/>
                     <Item id="24401" name="Delimiter 3 style"/>
-					<Item id="24420" name="Open:"/>
+					<Item id="24420" name="Oscail:"/>
                     <Item id="24421" name="Escape:"/>
-                    <Item id="24422" name="Close:"/>
+                    <Item id="24422" name="Dún:"/>
                     <Item id="24423" name="Styler"/>
                     <Item id="24451" name="Delimiter 4 style"/>
-					<Item id="24470" name="Open:"/>
+					<Item id="24470" name="Oscail:"/>
                     <Item id="24471" name="Escape:"/>
-                    <Item id="24472" name="Close:"/>
+                    <Item id="24472" name="Dún:"/>
                     <Item id="24473" name="Styler"/>
                     <Item id="24501" name="Delimiter 5 style"/>
-					<Item id="24520" name="Open:"/>
+					<Item id="24520" name="Oscail:"/>
                     <Item id="24521" name="Escape:"/>
-                    <Item id="24522" name="Close:"/>
+                    <Item id="24522" name="Dún:"/>
                     <Item id="24523" name="Styler"/>
                     <Item id="24551" name="Delimiter 6 style"/>
-					<Item id="24570" name="Open:"/>
+					<Item id="24570" name="Oscail:"/>
                     <Item id="24571" name="Escape:"/>
-                    <Item id="24572" name="Close:"/>
+                    <Item id="24572" name="Dún:"/>
                     <Item id="24573" name="Styler"/>
                     <Item id="24601" name="Delimiter 7 style"/>
-					<Item id="24620" name="Open:"/>
+					<Item id="24620" name="Oscail:"/>
                     <Item id="24621" name="Escape:"/>
-                    <Item id="24622" name="Close:"/>
+                    <Item id="24622" name="Dún:"/>
                     <Item id="24623" name="Styler"/>
                     <Item id="24651" name="Delimiter 8 style"/>
-					<Item id="24670" name="Open:"/>
+					<Item id="24670" name="Oscail:"/>
                     <Item id="24671" name="Escape:"/>
-                    <Item id="24672" name="Close:"/>
+                    <Item id="24672" name="Dún:"/>
                     <Item id="24673" name="Styler"/>
                 </Operator>
                 <Item id="24001" name="Enable escape character:"/>
             </UserDefine>
             <Preference title="Preferences">
-                <Item id="6001" name="Close"/>
+                <Item id="6001" name="Dún"/>
                 <Global title="General">
                     <Item id="6101" name="Toolbar"/>
                     <Item id="6102" name="Hide"/>
@@ -725,7 +725,7 @@
                     <Item id="6808" name="Enable auto-completion on each input"/>
                     <Item id="6809" name="Function completion"/>
                     <Item id="6810" name="Word completion"/>
-                    <Item id="6811" name="From"/>
+                    <Item id="6811" name="Ó"/>
                     <Item id="6813" name="th character"/>
                     <Item id="6814" name="Valid value: 1 - 9"/>
                     <Item id="6815" name="Function parameters hint on input"/>
@@ -733,18 +733,18 @@
 				
             </Preference>
             <MultiMacro title="Run a Macro Multiple Times">
-                <Item id="1" name="Run"/>
+                <Item id="1" name="Rith"/>
                 <Item id="2" name="Cancel"/>
                 <Item id="8006" name="Macro to run:"/>
-                <Item id="8001" name="Run"/>
+                <Item id="8001" name="Rith"/>
                 <Item id="8005" name="times"/>
                 <Item id="8002" name="Run until the end of file"/>
             </MultiMacro>
             <Window title="Windows">
                 <Item id="1" name="Activate"/>
                 <Item id="2" name="OK"/>
-                <Item id="7002" name="Save"/>
-                <Item id="7003" name="Close window(s)"/>
+                <Item id="7002" name="Sábháil"/>
+                <Item id="7003" name="Dún na Fhuinneoga"/>
                 <Item id="7004" name="Sort tabs"/>
             </Window>
             <ColumnEditor title="Column Editor">
@@ -784,19 +784,19 @@
             <Menus>
                 <Entries>
                     <Item id="0" name="Workspace"/>
-                    <Item id="1" name="Edit"/>
+                    <Item id="1" name="Cuir in Eagar"/>
                 </Entries>
                 <WorkspaceMenu>
                     <Item id="3122" name="New Workspace"/>
                     <Item id="3123" name="Open Workspace"/>
                     <Item id="3124" name="Reload Workspace"/>
-                    <Item id="3125" name="Save"/>
-                    <Item id="3126" name="Save As..."/>
+                    <Item id="3125" name="Sábháil"/>
+                    <Item id="3126" name="Sábháil Mar..."/>
                     <Item id="3127" name="Save a Copy As..."/>
                     <Item id="3121" name="Add New Project"/>
                 </WorkspaceMenu>
                 <ProjectMenu>
-                    <Item id="3111" name="Rename"/>
+                    <Item id="3111" name="Athainmnigh"/>
                     <Item id="3112" name="Add Folder"/>
                     <Item id="3113" name="Add Files..."/>
                     <Item id="3117" name="Add Files from Directory..."/>
@@ -805,7 +805,7 @@
                     <Item id="3119" name="Move Down"/>
                 </ProjectMenu>
                 <FolderMenu>
-                    <Item id="3111" name="Rename"/>
+                    <Item id="3111" name="Athainmnigh"/>
                     <Item id="3112" name="Add Folder"/>
                     <Item id="3113" name="Add Files..."/>
                     <Item id="3117" name="Add Files from Directory..."/>
@@ -814,7 +814,7 @@
                     <Item id="3119" name="Move Down"/>
                 </FolderMenu>
                 <FileMenu>
-                    <Item id="3111" name="Rename"/>
+                    <Item id="3111" name="Athainmnigh"/>
                     <Item id="3115" name="Remove"/>
                     <Item id="3116" name="Modify File Path"/>
                     <Item id="3118" name="Move Up"/>
